@@ -1,0 +1,10 @@
+.ai_video_keys.json
+drafts/
+local_only/
+faceless_content/
+*.mp4
+*.mp3
+*.bak*
+__pycache__/
+.DS_Store
+facts_*.txt

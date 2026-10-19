@@ -1,0 +1,67 @@
+{
+ "slug": "blood_falls_antarctica",
+ "title": "Antarctica's Bleeding Glacier",
+ "voice": "adam",
+ "sources": [
+  "Mikucki & Priscu 2007 (PMC1932727): marine-origin brine hosting microbes on reduced iron/sulfur",
+  "Zoumplis et al. 2026, Nature Geoscience: marine-derived microbial signatures at the terminus",
+  "Taylor 1911 red-algae guess (Scientific American, Mental Floss)"
+ ],
+ "hedge_notes": [
+  "No firm age exists - never say 'millions of years'",
+  "'Scientists think' is required on the ocean-origin line",
+  "Do not claim 'no oxygen' - not confirmed in sources checked"
+ ],
+ "segments": [
+  {
+   "label": "BLOOD FALLS",
+   "query": "antarctica glacier",
+   "text": "In Antarctica, a glacier is bleeding.",
+   "prompt": "a blood red stream flowing down a glacier in Antarctica"
+  },
+  {
+   "label": "RED STREAM",
+   "query": "glacier ice",
+   "text": "A blood-red stream pours from Taylor Glacier onto the ice below.",
+   "prompt": "red stained ice below a glacier wall"
+  },
+  {
+   "label": "1911",
+   "query": "iceberg",
+   "text": "In 1911, the explorer who found it blamed red algae.",
+   "prompt": "an early 1900s polar expedition on the ice"
+  },
+  {
+   "label": "IRON RUSTS",
+   "query": "red water",
+   "text": "It was not algae. It is salty water, rich in iron. When the iron hits the air, it rusts.",
+   "prompt": "rusty red water over white ice",
+   "ai": true
+  },
+  {
+   "label": "TRAPPED BRINE",
+   "query": "frozen lake",
+   "text": "That water comes from a brine trapped under the glacier. Scientists think it is ocean water, sealed away when the sea retreated.",
+   "prompt": "a frozen lake in Antarctica surrounded by ice cliffs"
+  },
+  {
+   "label": "LIFE WITHOUT SUN",
+   "query": "bacteria",
+   "text": "Down there, there is no sunlight. Yet microbes live on, using the chemistry of iron and sulfur.",
+   "prompt": "microscopic bacteria glowing under a microscope"
+  },
+  {
+   "label": "CLUES",
+   "query": "antarctica",
+   "text": "Scientists study it for clues about life in extreme places.",
+   "prompt": "a lone researcher on the Antarctic ice"
+  },
+  {
+   "label": "UNDER THE ICE",
+   "query": "ice",
+   "text": "What else is hiding under the ice?",
+   "prompt": "a glowing blue ice cave",
+   "ai": true
+  }
+ ]
+}

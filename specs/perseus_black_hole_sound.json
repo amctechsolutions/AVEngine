@@ -1,0 +1,64 @@
+{
+ "slug": "perseus_black_hole_sound",
+ "title": "The Sound of a Black Hole",
+ "voice": "adam",
+ "sources": [
+  "NASA Chandra 'A Universe of Sound' - Perseus (chandra.si.edu/sound/perseus.html): ripples ~57 octaves below middle C; audio scaled up 57-58 octaves"
+ ],
+ "hedge_notes": [
+  "Say 'roughly 240 million light years' - distance came from a secondary source, not a NASA page",
+  "Always call it sonification; the raw note is not audible"
+ ],
+ "segments": [
+  {
+   "label": "SPACE HUMS",
+   "query": "black hole",
+   "text": "Space is silent. But one black hole is humming.",
+   "prompt": "a black hole with glowing accretion disk in deep space"
+  },
+  {
+   "label": "240M LIGHT YEARS",
+   "query": "galaxy",
+   "text": "It sits in the Perseus galaxy cluster, roughly two hundred and forty million light years away.",
+   "prompt": "a swirling spiral galaxy in deep space"
+  },
+  {
+   "label": "HOT GAS",
+   "query": "space nebula",
+   "text": "Between those galaxies is hot gas, and hot gas can carry pressure waves, like sound.",
+   "prompt": "colorful glowing nebula gas clouds in space"
+  },
+  {
+   "label": "CHANDRA",
+   "query": "telescope",
+   "text": "NASA's Chandra X-ray telescope found ripples in that gas, stirred up by the black hole at the center.",
+   "prompt": "the Chandra X-ray space telescope orbiting Earth, solar panels, deep space, photorealistic",
+   "ai": true
+  },
+  {
+   "label": "57 OCTAVES",
+   "query": "sound waves",
+   "text": "Those ripples are a note about fifty-seven octaves below middle C. Far too deep for any human ear.",
+   "prompt": "glowing concentric ripples of pressure waves spreading through a dark cloud of hot gas in space",
+   "ai": true
+  },
+  {
+   "label": "SONIFICATION",
+   "query": "equalizer",
+   "text": "So scientists shifted the pitch way up, into the range we can hear. That process is called sonification.",
+   "prompt": "audio waveform visualizer glowing on dark background"
+  },
+  {
+   "label": "REAL DATA",
+   "query": "universe stars",
+   "text": "It is real data, translated into sound.",
+   "prompt": "a field of stars across the universe"
+  },
+  {
+   "label": "YOUR GUESS?",
+   "query": "outer space",
+   "text": "What do you think a black hole sounds like?",
+   "prompt": "an astronaut silhouette looking into deep space"
+  }
+ ]
+}

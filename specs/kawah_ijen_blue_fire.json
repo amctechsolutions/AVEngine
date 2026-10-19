@@ -1,0 +1,61 @@
+{
+ "slug": "kawah_ijen_blue_fire",
+ "title": "The Volcano That Burns Blue",
+ "voice": "adam",
+ "sources": [
+  "National Geographic: Kawah Ijen blue flames (gas up to ~600C, flames up to ~5 m)",
+  "Smithsonian Magazine: why the Indonesian volcano burns blue"
+ ],
+ "hedge_notes": [
+  "Do NOT say 'blue lava' as fact; sources disagree on what ignites the gas, so the script gives no cause",
+  "'several meters' is hedged from 'up to ~5 m'"
+ ],
+ "segments": [
+  {
+   "label": "BLUE FIRE",
+   "query": "blue fire",
+   "text": "At night, a volcano in Indonesia glows electric blue.",
+   "prompt": "electric blue flames glowing on a volcano crater at night, cinematic",
+   "ai": true
+  },
+  {
+   "label": "NOT LAVA",
+   "query": "sulfur",
+   "text": "But that is not lava. It is burning sulfur.",
+   "prompt": "yellow sulfur crystals at a volcanic vent, macro"
+  },
+  {
+   "label": "600 DEGREES",
+   "query": "volcano crater",
+   "text": "Inside Kawah Ijen, volcanic gases rich in sulfur escape from cracks at around six hundred degrees Celsius.",
+   "prompt": "steaming volcanic crater with yellow sulfur deposits at dawn"
+  },
+  {
+   "label": "IGNITES",
+   "query": "fire flames",
+   "text": "When those gases hit the air, they ignite, sending blue flames several meters high.",
+   "prompt": "blue flames rising from rocks at night",
+   "ai": true
+  },
+  {
+   "label": "LIQUID SULFUR",
+   "query": "volcano night",
+   "text": "Some of the sulfur condenses into liquid, runs downhill, and burns too. That is what looks like blue lava.",
+   "prompt": "glowing blue liquid flowing down a dark volcanic slope",
+   "ai": true
+  },
+  {
+   "label": "ONLY AT NIGHT",
+   "query": "volcano smoke",
+   "text": "The blue is only clearly visible in the dark.",
+   "prompt": "volcanic gas smoke drifting in darkness",
+   "ai": true
+  },
+  {
+   "label": "MIDNIGHT HIKE",
+   "query": "hiker mountain",
+   "text": "Would you hike a volcano at midnight to see it?",
+   "prompt": "hikers with headlamps climbing a dark mountain"
+  }
+ ]
+}
